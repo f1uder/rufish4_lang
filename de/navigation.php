@@ -2,10 +2,10 @@
 
 return [
     'navbar.news'   => 'News',
-    'navbar.maps'   => 'Maps and coordinates',
-    'navbar.fish'   => 'Fish list',
-    'navbar.item'   => 'Items and prices',
-    'navbar.cont'   => 'Contacts',
+    'navbar.maps'   => 'Karten',
+    'navbar.fish'   => 'Fisch',
+    'navbar.item'   => 'Items udn Preise',
+    'navbar.cont'   => 'Kontakt',
     'navbar.db'     => 'Knowledge base',
     'navbar.lure'   => 'Groundbait',
     'navbar.video'  => 'streams and videos',
