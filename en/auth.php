@@ -1,39 +1,61 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
-    | Authentication Language Lines
+    | Языковые ресурсы аутентификации
     |--------------------------------------------------------------------------
     |
-    | The following language lines are used during authentication for various
-    | messages that we need to display to the user. You are free to modify
-    | these language lines according to your application's requirements.
+    | Следующие языковые ресурсы используются во время аутентификации для
+    | различных сообщений которые мы должны вывести пользователю на экран.
+    | Вы можете свободно изменять эти языковые ресурсы в соответствии
+    | с требованиями вашего приложения.
     |
     */
+
+    'edit' => [
+        'avatar' => 'Аватар',
+    ],
+
+    'contact' => [
+        'username' => 'Имя',
+        'action' => 'Отправить сообщение',
+        'message' => 'Сообщение',
+        'in-game' => 'В игре',
+    ],
 
     'failed' => 'These credentials do not match our records.',
     'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
 
-    'auth.new' => 'Register an account',
-    'auth.name' => 'Game nickname or name',
-    'auth.email' => 'E-mail',
-    'auth.my_pass' => 'Password',
-    'auth.reset_pass' => 'Forgot your password?',
-    'auth.drop_pass' => 'Password reset',
-    'auth.get_link' => 'Send password reset link',
-    'auth.access' => 'Access recovery',
-    'auth.change_pass' => 'Change Password',
-    'auth.pass' => 'Create a password',
-    'auth.pass2' => 'Confirm password',
-    'auth.login' => 'Authorization',
-    'auth.reg' => 'SignUp',
-    'auth.rules' => 'Consent to the processing of personal data',
-    'auth.remember' => 'Remember me',
-    'auth.create' => 'Create a new account',
-    'auth.enter' => 'Login',
-    'auth.settings' => 'Profile data',
-    'auth.update' => 'Update the data',
+    'auth.new' => 'Новый аккаунт',
+    'auth.name' => 'Игровой ник',
+    'auth.username' => 'Имя',
+    'auth.email' => 'Почта',
+    'auth.my_pass' => 'Пароль',
+    'auth.reset_pass' => 'Забыли пароль?',
+    'auth.drop_pass' => 'Сброс пароля',
+    'auth.get_link' => 'Отправить ссылку для сброса пароля',
+    'auth.access' => 'Восстановление доступа',
+    'auth.change_pass_btn' => 'Изменить пароль',
+    'auth.pass' => 'Придумайте пароль',
+    'auth.pass2' => 'Повторите пароль',
+    'auth.login' => 'Авторизация',
+    'auth.login.description' => 'Почта и пароль',
+    'auth.reg' => 'Регистрация нового аккаунта',
+    'auth.rules' => 'Согласие на обработку персональных данных',
+    'auth.remember' => 'Запомнить меня',
+    'auth.create' => 'Создать новый аккаунт',
+    'auth.enter' => 'Войти',
+    'auth.exit' => 'Выход',
+    'auth.settings' => 'Данные профиля',
+    'auth.update' => 'Обновить данные',
+    'auth.registration' => 'Регистрация',
+
+    'auth.my_profile' => 'Мой профиль',
+    'auth.my_settings' => 'Настройки',
+
+    'auth.change_pass' => 'Смена пароля',
+    'auth.send_pass' => 'Выслать пароль',
+    'auth.restore_message' => 'На указанный адрес электронной почты будет отправлено письмо с инструкциями для изменения пароля.'
 
 ];

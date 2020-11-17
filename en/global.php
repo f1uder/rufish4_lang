@@ -1,42 +1,76 @@
 <?php
 
 return [
-    'navigation_menu' => 'Navigation in the section',
-    'stream' => 'Streams',
-    'nrox' => 'Website development',
-    'game_name' => 'Russian Fishing 4',
-    'fish' => 'Fish',
+    'name' => 'Русская рыбалка',
+    'fun-site' => 'Фан-сайт',
+    'no-data' => 'Актуальных данных нет!',
+    'no-data-v2' => 'Нет данных',
+    'anonymous' => 'Аноним',
+    'support' => 'Тех-поддержка',
+    'section-dev' => 'Раздел находится в стадии разработки',
+    'coordinate' => 'координаты',
+    'more' => 'Подробнее',
+    'donate' => 'Поддержать сайт',
 
-    'home.new_video' => 'New videos on Russian fishing 4',
-    'home.last_news' => 'Latest news and articles',
-    'home.new_coordinate' => 'New coordinates',
-    'home.more' => 'Read more',
-    'home.last_activity' => 'Recent changes on points',
-
-    'video.title' => 'Video section on the game Russian fishing 4',
-    'video.add_video' => 'Add video',
-    'video.add_stream' => 'Add stream channel',
-
-    'gear' => [
-        1 => 'Float rod',
-        2 => 'Bottom fishing rod',
-        3 => 'Spinning rod',
+    'navigation' => [
+        'news' => 'Новости',
+        'maps' => 'Водоемы и координаты',
+        'video' => 'Стримы и видео',
+        'wiki' => 'База знаний',
+        'contact' => 'Контакты',
+        'fish' => 'Список рыб',
+        'items' => 'Предметы и цены',
+        'weekly-records' => 'Недельные рекорды',
+        'more' => 'Смотреть подробнее',
     ],
-    'all_gear' => 'all types of gear',
-    'no_description' => 'No description',
-    'no_data' => 'no data',
-    'more' => 'Read more',
 
-    'coordinates.dynamic' => 'Dynamics of the point on',
-    'fish.coordinate' => 'Coordinates where a :name was spotted', // coordinates where a NAME was spotted
+    'home' => [
+        'new_video' => 'Новые видео по игре',
+        'new_point' => 'Новые координаты ловли',
+        'new_news' => 'Последние новости',
+    ],
 
-    // lure
-    'recepts' => 'Lure recipes',
-    'lure_add' => 'Add your recipe for lure', // Add your own recipe
-    'lure_fish' => 'Lure for the following fish', // Groundbaits for fish
-    'lure_rec' => 'The composition of the recipe',
-    'lure.osnovy' => 'The foundation',
-    'lure.dobavki' => 'Additive',
-    'lure.aromatizatory' => 'Flavoring',
+    'tackle' => [
+        '1' => 'Поплавочная',
+        '2' => 'Донная',
+        '3' => 'Спиннинг',
+    ],
+
+    'video' => [
+      'title' => 'Видео раздел по игре Русская рыбалка 4',
+      'user-video' => 'Видео от наших пользователей',
+    ],
+
+    'map' => [
+        'all-coordinate' => 'Всего координат',
+        'required-level' => 'Требуемый уровень',
+        'show-map' => 'Показать карту',
+    ],
+
+    'point' => [
+        'fish-list' => 'Здесь можно поймать следующие виды рыб',
+        'go-map' => 'Перейти к водоему',
+        'info' => 'Подробная информация',
+        'message' => [
+            'line1' => 'Помните, что уловистым точкам нужно давать передышку. Если клев закончился, должно пройти немного времени, прежде чем на опустевшем месте вновь появится рыба.',
+            'line2' => 'Также не стоит забывать про фазы, когда одна рыба сменяет другую на какой-то промежуток времени.',
+            'line3' => 'Находясь на точке, можно ориентироваться по чату, что ловят в данный момент.',
+        ],
+        'fish-view' => 'Рыбы, замеченные игроками',
+    ],
+
+    'fish' => [
+        'title' => 'Список всех рыб и места их обитания',
+        'name' => 'Название',
+        'weight' => 'Вес',
+        'title-weight' => 'Минимальный - максимальный вес рыбы',
+        'where' => 'Где ловится',
+        'coordinate-view' => 'Координаты на которых был замечен',
+    ],
+
+    'sidebar' => [
+        'wiki' => 'База знаний по игре',
+        'navigation' => 'Навигация',
+    ]
 
 ];
