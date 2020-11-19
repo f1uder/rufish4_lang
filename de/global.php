@@ -1,51 +1,51 @@
 <?php
 
 return [
-    'name' => 'Русская рыбалка',
-    'fun-site' => 'Фан-сайт',
-    'no-data' => 'Актуальных данных нет!',
-    'no-data-v2' => 'Нет данных',
-    'anonymous' => 'Аноним',
-    'support' => 'Тех-поддержка',
-    'section-dev' => 'Раздел находится в стадии разработки',
-    'coordinate' => 'координаты',
-    'more' => 'Подробнее',
-    'donate' => 'Поддержать сайт',
-    'comments' => 'Комментарии',
+    'name' => 'Russian Fishing',
+    'fun-site' => 'Fan-Website',
+    'no-data' => 'Keine aktuellen Daten!',
+    'no-data-v2' => 'Keine Daten verfügbar',
+    'anonymous' => 'Anonym',
+    'support' => 'Technischer Support',
+    'section-dev' => 'Abschnitt ist im Bau',
+    'coordinate' => 'koordinaten',
+    'more' => 'mehr Details',
+    'donate' => 'Spenden',
+    'comments' => 'Bemerkungen',
 
     'navigation' => [
-        'news' => 'Новости',
-        'maps' => 'Водоемы и координаты',
-        'video' => 'Стримы и видео',
-        'wiki' => 'База знаний',
-        'contact' => 'Контакты',
-        'fish' => 'Список рыб',
-        'items' => 'Предметы и цены',
-        'weekly-records' => 'Недельные рекорды',
-        'more' => 'Смотреть подробнее',
+        'news' => 'Nachrichten',
+        'maps' => 'Karten und Koordinaten',
+        'video' => 'Streams und Videos',
+        'wiki' => 'Wissensbasis (wiki)',
+        'contact' => 'Kontakte',
+        'fish' => 'Liste der Fische',
+        'items' => 'Artikel und Preise',
+        'weekly-records' => 'Wöchentliche Highscores',
+        'more' => 'Siehe Details',
     ],
 
     'home' => [
-        'new_video' => 'Новые видео по игре',
-        'new_point' => 'Новые координаты ловли',
-        'new_news' => 'Последние новости',
+        'new_video' => 'Neueste Spielvideos',
+        'new_point' => 'Neue Angelplätze',
+        'new_news' => 'Aktuelle Nachrichten',
     ],
 
     'tackle' => [
-        '1' => 'Поплавочная',
-        '2' => 'Донная',
-        '3' => 'Спиннинг',
+        '1' => 'Posenfischen',
+        '2' => 'Grundfischen',
+        '3' => 'Spinnfischen',
     ],
 
     'video' => [
-      'title' => 'Видео раздел по игре Русская рыбалка 4',
-      'user-video' => 'Видео от наших пользователей',
+      'title' => 'Video Abschnitt über das Spiel Russian Fishing 4',
+      'user-video' => 'Videos von unseren Nutzern',
     ],
 
     'map' => [
-        'all-coordinate' => 'Всего координат',
-        'required-level' => 'Требуемый уровень',
-        'show-map' => 'Показать карту',
+        'all-coordinate' => 'Anzahl der Koordinaten',
+        'required-level' => 'Benötigtes Level',
+        'show-map' => 'Karte anzeigen',
     ],
 
     'point' => [

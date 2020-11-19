@@ -1,86 +1,86 @@
 {
   "tackle" : {
-    "1" : "Поплавочная",
-    "2" : "Донная",
-    "3" : "Спиннинг"
+    "1": "Posenfischen",
+    "2": "Grundfischen",
+    "3": "Spinnfischen"
   },
 
-  "no-data": "Актуальных данных нет!",
+  "no-data": "Keine aktuellen Daten!",
 
-  "comments" : "Комментарии",
+  "comments" : "Kommentare",
 
   "video" : {
-    "action" : "Добавить видео",
-    "title" : "Добавить новое видео",
-    "name" : "Название",
-    "link" : "Ссылка на видео (youtube)",
+    "action" : "Video hinzufügen",
+    "title" : "Neues Video hinzufügen",
+    "name" : "Name",
+    "link" : "Link zum Video (youtube)",
     "errors" : {
-      "name" : "Слишком короткое название!",
-      "link" : "Некорректная ссылка на видео!"
+      "name" : "Der Name ist zu kurz!",
+      "link" : "Ungültiger Videolink!"
     }
   },
 
   "points" : {
     "sort" : {
-      "rating" : "По рейтингу",
-      "date" : "Новые",
+      "rating" : "Nach Bewertung",
+      "date" : "Nach Datum",
       "gear" : {
-        "all" : "Любой тип снасти",
-        "1" : "Поплавочная снасть",
-        "2" : "Донная снасть",
-        "3" : "Спиннинг"
+        "all" : "Alle Angelausrüstung",
+        "1": "Posenfischen",
+        "2": "Grundfischen",
+        "3": "Spinnfischen"
       }
     },
-    "fish-point" : "Здесь можно поймать следующие виды рыб",
-    "weekly-records": "Недельные рекорды",
-    "lure": "Наживка",
-    "point": "Точка",
+    "fish-point" : "Hier können Sie folgende Fischarten fangen",
+    "weekly-records": "Wöchentliche Highscores",
+    "lure": "Köder",
+    "point": "Punkt",
 
     "create" : {
-      "action" : "Добавить точку",
-      "title" : "Добавить новую точку",
-      "coordinate" : "Координаты",
-      "gear" : "Тип снасти",
-      "fish-list" : "Список рыб",
+      "action" : "Koordinaten hinzufügen",
+      "title" : "Koordinaten hinzufügen",
+      "coordinate" : "Koordinaten",
+      "gear" : "Angelgerät Typ",
+      "fish-list" : "Liste der Fische",
       "placeholder" : "Расскажите что ловится и на какую наживку, куда лучше забрасывать. Если ловите на спиннинг, не забывайте указывать № приманки.",
       "select" : {
-        "input" : "Введите название рыбы",
+        "input" : "geben Sie den Namen des Fisches an",
         "select" : "Нажмите чтобы выбрать",
         "deselect" : "Нажмите чтобы удалить",
         "selected" : "Выбрано",
-        "no-result" : "Такая рыба не найдена!"
+        "no-result" : "Ein solcher Fisch wurde nicht gefunden!"
       },
       "errors" : {
-        "auth" : "Добавлять точки можно, после регистрации или авторизации, если у вас уже есть аккаунт.",
-        "coordinate" : "Неверно заполнено поле с координатами!",
-        "gear" : "Выберите тип снасти!",
-        "comments" : "Слишком короткий комментарий!",
-        "fish" : "Укажите рыбу, которую можно поймать на данной точке!"
+        "auth" : "Sie müssen sich auf der Website registrieren oder sich mit Ihrem Konto anmelden",
+        "coordinate" : "Das Feld mit den Koordinaten ist falsch ausgefüllt!",
+        "gear" : "Wählen Sie die Art der Angelausrüstung!",
+        "comments" : "Zu kurzer Kommentar!",
+        "fish" : "Geben Sie den Fisch an, den Sie an dieser Stelle fangen können"
       }
     }
   },
 
   "map" : {
-    "coordinate" : "Координаты",
-    "error" : "Неправильно заполнено поле координат. Пример: 40.60"
+    "coordinate" : "Koordinaten",
+    "error" : "Das Koordinatenfeld ist falsch ausgefüllt. Beispiel: 40.60"
   },
 
   "comm" : {
-    "input-comm" : "Введите текст комментария",
-    "write-comm" : "Написать комментарий",
-    "no-comm" : "Комментариев еще нет",
-    "show-comm" : "показать комментарии",
+    "input-comm" : "Geben Sie Ihren Kommentartext ein",
+    "write-comm" : "Schreibe einen Kommentar",
+    "no-comm" : "Noch keine Kommentare",
+    "show-comm" : "Kommentare anzeigen",
     "errors" : {
-      "auth" : "Пожалуйста, войдите в аккаунт или зарегистрируйтесь",
-      "comm-min" : "Комментарий должен содержать как минимум 2 символа!",
-      "comm-max" : "Комментарий не должен превышать 245 символов!"
+      "auth" : "Bitte anmelden oder registrieren",
+      "comm-min" : "Der Kommentar muss mindestens 2 Zeichen lang sein!",
+      "comm-max" : "Der Kommentar darf 245 Zeichen nicht überschreiten!"
     }
   },
 
   "button" : {
-    "send" : "Отправить",
-    "cancel" : "Отменить",
-    "more" : "Подробнее",
-    "map" : "Карта"
+    "send" : "Senden",
+    "cancel" : "Abschaffen",
+    "more" : "Mehr",
+    "map" : "Karte"
   }
 }
