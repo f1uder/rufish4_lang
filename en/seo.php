@@ -2,35 +2,35 @@
 
     return [
         'home' =>[
-            'title' => 'Интерактивные карты и база знаний - Русская рыбалка 4',
-            'description' => 'Интерактивные карты для игры Русская рыбалка 4, тут Вы можете посмотреть координаты рыбных мест для всех водоемов.',
+            'title' => 'Interactive maps and knowledge base (wiki) - Russian fishing 4',
+            'description' => 'Interactive maps for the game Russian fishing 4, here you can see the coordinates of fishing places for all reservoirs.',
         ],
 
         'contact' => [
-            'title' => 'Контакты и обратная связь - Русская рыбалка 4',
-            'description' => 'Контакты и обратная связь',
+            'title' => 'Contacts and feedback - Russian fishing 4',
+            'description' => 'Contacts and feedback',
         ],
 
         'video' => [
-            'title' => 'Стримы и видео - Русская рыбалка 4',
-            'description' => 'Стримы и видео по игре Русская рыбалка 4',
+            'title' => 'Streams and video - Russian fishing 4',
+            'description' => 'Streams and video on the game Russian Fishing 4',
         ],
 
         'fish' => [
-            'title' => 'Список всех рыб и места где их можно поймать - Русская рыбалка 4',
-            'description' => 'В игре Русская рыбалка 4 присутствует огромное количество разных рыб, здесь мы перечислим их всех, а также рассмотрим места, где их можно поймать.',
+            'title' => 'List of all fish and places where they can be caught - Russian fishing 4',
+            'description' => 'In the game Russian fishing 4 there is a huge number of different fish, here we will list them all, and also consider the places where they can be caught.',
         ],
 
-        'map' => 'Координаты для карты :map, лучшие места для рыбалки. Здесь вы найдете информацию по рыбам и наживкам и легко определитесь, на что лучше ловить.',
+        'map' => 'Coordinates for the map: :map, best fishing spots. Here you will find information on fish and bait, and you can easily decide what to fish with.',
 
-        'point' => 'Русская рыбалка 4, ловим рыбу по координатам: :location, на карте :map. Также рассмотрим подходящие наживки для более успешной ловли рыбы.',
+        'point' => 'Russian fishing 4, fishing by coordinates: :location, on the map: :map. We will also consider suitable baits for more successful fishing.',
 
-        'profile.show' => 'Мой профиль',
-        'profile.settings' => 'Настройки профиля',
+        'profile.show' => 'My profile',
+        'profile.settings' => 'Profile settings',
 
         'coordinate' => [
-            'title' => 'Обзор точек на :location - :map - Русская рыбалка 4',
-            'description' => 'Карта: :map. Обзор всех точек по координатам :location, здесь также можно найти список рыб которые обитают в данном месте.',
+            'title' => 'Fishing spot overview :location - :map - Russian fishing 4',
+            'description' => 'Maps: :map. Overview of all fishing spots for :location spot, here you can also find a list of fish that live in this place.',
         ]
 
     ];

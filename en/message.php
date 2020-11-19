@@ -3,14 +3,14 @@
 return [
     'error_time' => '',
 
-    'create_point' => 'Данные отправлены! В ближайшее время, точка будет доступна в общем списке.',
-    'error_point' => 'Произошла ошибка при добавлении новой точки!',
+    'create_point' => 'Data has been sent! In the near future, the point will be available in the general list.',
+    'error_point' => 'An error occurred while adding a new point!',
 
-    'create_video' => 'Видео успешно добавлено!',
-    'error_video' => 'Добавлять новые видео можно 1 раз в минуту',
+    'create_video' => 'Video added successfully!',
+    'error_video' => 'You can add new videos 1 time per minute',
 
-    'create_comment' => 'Комментарий добавлен!',
+    'create_comment' => 'Comment added!',
 
-    'create_contact' => 'Сообщение отправлено!',
-    'error_contact' => 'Произошла ошибка, при попытке отправить сообщение!',
+    'create_contact' => 'Message sent!',
+    'error_contact' => 'An error occurred while trying to send your message!',
 ];

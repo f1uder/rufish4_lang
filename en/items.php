@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'title' => 'Игровые предметы и цены'
+    'title' => 'Game items and prices'
 ];

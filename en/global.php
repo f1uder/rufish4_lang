@@ -52,9 +52,9 @@ return [
         'go-map' => 'Go to the map',
         'info' => 'Detailed information',
         'message' => [
-            'line1' => 'Помните, что уловистым точкам нужно давать передышку. Если клев закончился, должно пройти немного времени, прежде чем на опустевшем месте вновь появится рыба.',
-            'line2' => 'Также не стоит забывать про фазы, когда одна рыба сменяет другую на какой-то промежуток времени.',
-            'line3' => 'Находясь на точке, можно ориентироваться по чату, что ловят в данный момент.',
+            'line1' => 'Remember that catch points need to be given a break. If the biting is over, it should take a little time before the fish reappears in the empty place.',
+            'line2' => 'Also, do not forget about the phases when one fish replaces another for a certain period of time.',
+            'line3' => 'Being on the point, you can navigate by the chat that is being caught at the moment.',
         ],
         'fish-view' => 'Fish spotted by players',
     ],
