@@ -34,6 +34,7 @@
     "fish-point" : "Here you can catch the following types of fish",
     "weekly-records": "Weekly records",
     "lure": "Bait",
+    "point": "Point",
 
     "create" : {
       "action" : "Add point",
