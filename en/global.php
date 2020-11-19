@@ -11,6 +11,7 @@ return [
     'coordinate' => 'coordinates',
     'more' => 'More details',
     'donate' => 'Donate',
+    'comments' => 'Comments',
 
     'navigation' => [
         'news' => 'News',

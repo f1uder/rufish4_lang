@@ -70,7 +70,7 @@
     "write-comm" : "Write a comment",
     "no-comm" : "No comments yet",
     "show-comm" : "show comments",
-    "error" : {
+    "errors" : {
       "auth" : "Please sign in or register a new account",
       "comm-min" : "The comment must contain at least 2 characters!",
       "comm-max" : "The comment should not exceed 245 characters!"

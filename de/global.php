@@ -11,6 +11,7 @@ return [
     'coordinate' => 'координаты',
     'more' => 'Подробнее',
     'donate' => 'Поддержать сайт',
+    'comments' => 'Комментарии',
 
     'navigation' => [
         'news' => 'Новости',
