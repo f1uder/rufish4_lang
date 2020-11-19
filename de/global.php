@@ -13,6 +13,9 @@ return [
     'donate' => 'Spenden',
     'comments' => 'Bemerkungen',
 
+    'help' => 'Wenn Sie Ungenauigkeiten oder Übersetzungsfehler bemerken, teilen Sie uns bitte mit, wie diese behoben werden können (korrektere Übersetzung). Dies kann über Kontakte oder GitHub erfolgen.',
+    'translation-files' => 'Übersetzungsdateien',
+
     'navigation' => [
         'news' => 'Nachrichten',
         'maps' => 'Karten und Koordinaten',
@@ -49,29 +52,29 @@ return [
     ],
 
     'point' => [
-        'fish-list' => 'Здесь можно поймать следующие виды рыб',
-        'go-map' => 'Перейти к водоему',
-        'info' => 'Подробная информация',
+        'fish-list' => 'Hier können Sie folgende Fischarten fangen',
+        'go-map' => 'Gehe zur Karte',
+        'info' => 'genaue Information',
         'message' => [
-            'line1' => 'Помните, что уловистым точкам нужно давать передышку. Если клев закончился, должно пройти немного времени, прежде чем на опустевшем месте вновь появится рыба.',
-            'line2' => 'Также не стоит забывать про фазы, когда одна рыба сменяет другую на какой-то промежуток времени.',
-            'line3' => 'Находясь на точке, можно ориентироваться по чату, что ловят в данный момент.',
+            'line1' => 'Denken Sie daran, dass fischfangpunkte eine Pause brauchen. Wenn der Biss vorbei ist, sollte ein wenig Zeit vergehen, bevor der Fisch wieder auf dem leeren Platz erscheint.',
+            'line2' => 'Vergessen Sie auch nicht die Phasen, in denen ein Fisch den anderen für eine gewisse Zeit ersetzt.',
+            'line3' => 'Während Sie am Angelplatz sind, können Sie im Chat beobachten, welche Art von Fisch andere Leute fangen',
         ],
-        'fish-view' => 'Рыба, замеченная игроками',
+        'fish-view' => 'Fisch von Spielern gesehen',
     ],
 
     'fish' => [
-        'title' => 'Список всех рыб и места их обитания',
-        'name' => 'Название',
-        'weight' => 'Вес',
-        'title-weight' => 'Минимальный - максимальный вес рыбы',
-        'where' => 'Где ловится',
-        'coordinate-view' => 'Координаты на которых был замечен :name',
+        'title' => 'Liste aller Fische und Ihrer Lebensräume',
+        'name' => 'Name',
+        'weight' => 'Gewicht',
+        'title-weight' => 'Minimales - maximales Fischgewicht',
+        'where' => 'Wo wird gefangen',
+        'coordinate-view' => 'Koordinaten, an denen der :name entdeckt wurde',
     ],
 
     'sidebar' => [
-        'wiki' => 'База знаний по игре',
-        'navigation' => 'Навигация',
+        'wiki' => 'Wissensbasis (wiki)',
+        'navigation' => 'Navigation',
     ]
 
 ];

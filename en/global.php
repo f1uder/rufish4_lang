@@ -13,6 +13,9 @@ return [
     'donate' => 'Donate',
     'comments' => 'Comments',
 
+    'help' => 'If you notice inaccuracies or mistakes in translation, please let us know how to fix it (more correct translation). This can be done through contacts or GitHub',
+    'translation-files' => 'translation files',
+
     'navigation' => [
         'news' => 'News',
         'maps' => 'Maps and coordinates',

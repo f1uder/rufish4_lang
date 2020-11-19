@@ -42,12 +42,12 @@
       "coordinate" : "Koordinaten",
       "gear" : "Angelgerät Typ",
       "fish-list" : "Liste der Fische",
-      "placeholder" : "Расскажите что ловится и на какую наживку, куда лучше забрасывать. Если ловите на спиннинг, не забывайте указывать № приманки.",
+      "placeholder" : "Sagen Sie uns, was Sie fangen und welche Art von Köder, wo ist es besser zu werfen. Wenn Sie mit einer Spinnrute angeln, vergessen Sie nicht, die Nummer des Köders anzugeben.",
       "select" : {
         "input" : "geben Sie den Namen des Fisches an",
-        "select" : "Нажмите чтобы выбрать",
-        "deselect" : "Нажмите чтобы удалить",
-        "selected" : "Выбрано",
+        "select" : "Klicke um auszuwählen",
+        "deselect" : "Klicken Sie zum Löschen",
+        "selected" : "Ausgewählt",
         "no-result" : "Ein solcher Fisch wurde nicht gefunden!"
       },
       "errors" : {
