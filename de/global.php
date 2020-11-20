@@ -13,8 +13,9 @@ return [
     'donate' => 'Spenden',
     'comments' => 'Bemerkungen',
 
-    'help' => 'Wenn Sie Ungenauigkeiten oder Übersetzungsfehler bemerken, teilen Sie uns bitte mit, wie diese behoben werden können (korrektere Übersetzung). Dies kann über Kontakte oder GitHub erfolgen.',
-    'translation-files' => 'Übersetzungsdateien',
+    'help' => 'Wenn Sie Ungenauigkeiten oder Übersetzungsfehler bemerken auf dieser Website, teilen Sie uns bitte mit, wie diese behoben werden können (korrektere Übersetzung). Dies kann über Kontakte oder <a class="text-blue-600 hover:underline mx-1" target="_blank" rel="nofollow" href="https://github.com/f1uder/rufish4_lang">GitHub</a> erfolgen.',
+    'translation-files' => 'Übersetzungsdateien herunterladen',
+    'login-info' => 'Aufgrund globaler Updates auf der Website wurden alle Konten gelöscht. Wenn Ihr Konto vor dem 20.11.2020 erstellt wurde, müssen Sie sich erneut registrieren.',
 
     'navigation' => [
         'news' => 'Nachrichten',

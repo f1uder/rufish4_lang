@@ -13,8 +13,9 @@ return [
     'donate' => 'Donate',
     'comments' => 'Comments',
 
-    'help' => 'If you notice inaccuracies or mistakes in translation, please let us know how to fix it (more correct translation). This can be done through contacts or GitHub',
-    'translation-files' => 'translation files',
+    'help' => 'If you notice inaccuracies or mistakes in translation on that website, please let us know how to fix it (more correct translation). This can be done through contacts or <a class="text-blue-600 hover:underline mx-1" target="_blank" rel="nofollow" href="https://github.com/f1uder/rufish4_lang">GitHub</a>',
+    'translation-files' => 'download translation files',
+    'login-info' => 'Due to global updates on the site, all accounts have been deleted. If your account was created before 11/20/2020, you need to register again.',
 
     'navigation' => [
         'news' => 'News',
